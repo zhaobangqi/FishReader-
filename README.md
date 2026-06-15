@@ -3,6 +3,7 @@
 一个轻量的透明 TXT 阅读小窗。适合快速打开小说文本、调节背景/文字透明度、隐藏工具栏，并用快捷键一键最小化。
 
 > 项目定位：轻量、快速启动、功能只保留阅读时真正需要的部分。
+<img width="464" height="281" alt="PixPin_2026-06-15_15-18-36" src="https://github.com/user-attachments/assets/655520a2-a6b8-4233-aa75-18d1f71dc049" />
 
 ## Features
 
